@@ -1,6 +1,7 @@
 {
   "name": "my-new-app",
   "version": "1.0.0",
+  "main": "src/index.tsx",  // Entry point set to your index.tsx file
   "scripts": {
     "start": "expo start",
     "reset-project": "node ./scripts/reset-project.js",
@@ -74,4 +75,5 @@
   },
   "private": true
 }
+
 
